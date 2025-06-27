@@ -1,0 +1,32 @@
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\POE for Prog last part.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\App.baml
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\MainWindow.g.cs
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\App.g.cs
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\POE for Prog last part_MarkupCompile.cache
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\POE for Prog last part_MarkupCompile.lref
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\bin\Debug\POE for Prog last part.exe.config
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\bin\Debug\POE for Prog last part.exe
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\bin\Debug\POE for Prog last part.pdb
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\MainWindow.baml
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\POE for Prog last part.g.resources
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\POE_for_Prog_last_part.Properties.Resources.resources
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\POE for Prog last part.csproj.GenerateResource.cache
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\POE for Prog last part.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\POE for Prog last part.exe
+C:\Users\RC_Student_lab\source\repos\POE for Prog last part\obj\Debug\POE for Prog last part.pdb
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\bin\Debug\POE for Prog last part.exe.config
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\bin\Debug\POE for Prog last part.exe
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\bin\Debug\POE for Prog last part.pdb
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\POE for Prog last part.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\App.baml
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\MainWindow.g.cs
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\App.g.cs
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\POE for Prog last part_MarkupCompile.cache
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\POE for Prog last part_MarkupCompile.lref
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\MainWindow.baml
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\POE for Prog last part.g.resources
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\POE_for_Prog_last_part.Properties.Resources.resources
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\POE for Prog last part.csproj.GenerateResource.cache
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\POE for Prog last part.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\POE for Prog last part.exe
+C:\Users\RC_Student_lab\Source\Repos\ST10357369PROG__LASTPART-POE\obj\Debug\POE for Prog last part.pdb
